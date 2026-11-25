@@ -15,7 +15,7 @@ public class ShopriteSlip {
 		double total, vat1, vat2; 
 		final double VAT_INC = 1.15;
 		final double VAT = 0.15;
-		
+		//My fist java project uploaded to Github
 		//ITEM1
 		System.out.print("Enter the 1st item to buy: ");
 		item1 = ndemz.nextLine();
